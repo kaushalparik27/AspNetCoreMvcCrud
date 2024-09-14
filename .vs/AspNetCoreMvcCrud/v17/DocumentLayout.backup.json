@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\AspNetCoreMvcCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3CBDF-D332-4BBE-ADFE-E9568EF5FFE0}|AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrud.Data.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.data\\aspnetcoremvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD3CBDF-D332-4BBE-ADFE-E9568EF5FFE0}|AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrud.Data.csproj|solutionrelative:aspnetcoremvccrud.data\\aspnetcoremvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3CBDF-D332-4BBE-ADFE-E9568EF5FFE0}|AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrud.Data.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.data\\models\\aspnetcoremvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD3CBDF-D332-4BBE-ADFE-E9568EF5FFE0}|AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrud.Data.csproj|solutionrelative:aspnetcoremvccrud.data\\models\\aspnetcoremvccrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|d:\\projects\\aspnetcoremvccrud\\aspnetcoremvccrud.ui\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96130561-3800-4FBC-A56E-65B096B2825B}|AspNetCoreMvcCrud.UI\\AspNetCoreMvcCrud.UI.csproj|solutionrelative:aspnetcoremvccrud.ui\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:45:18.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:40:33.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T14:28:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AspNetCoreMvcCrudContext.cs",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.Data\\Models\\AspNetCoreMvcCrudContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.Data\\Models\\AspNetCoreMvcCrudContext.cs",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.Data\\Models\\AspNetCoreMvcCrudContext.cs",
+              "RelativeToolTip": "AspNetCoreMvcCrud.Data\\Models\\AspNetCoreMvcCrudContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:11:00.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:35:00.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:33:22.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:30:41.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AspNetCoreMvcCrudContext.cs",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrudContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrudContext.cs",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrudContext.cs",
+              "RelativeToolTip": "AspNetCoreMvcCrud.Data\\AspNetCoreMvcCrudContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:09:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\appsettings.Development.json",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T14:28:35.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Program.cs",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Program.cs",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:25:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:29:34.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Projects\\AspNetCoreMvcCrud\\AspNetCoreMvcCrud.UI\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "AspNetCoreMvcCrud.UI\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:37:42.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
